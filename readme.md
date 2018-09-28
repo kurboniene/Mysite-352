@@ -1,0 +1,1 @@
+This repository contains material for the task to the position of Junior QA Engineer at Wix.
